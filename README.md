@@ -4,7 +4,7 @@
 <br>
 💻 Learning JavaScript, React & Node.js
 <br>
-🌱 Documenting my coding journey here on GitHub — wanna take a look?
+🌱 Documention here on GitHub — wanna take a look?
 
 ### About me
 🐶 Dog Lover & 📷 Passionate about Photography
@@ -14,6 +14,6 @@
 ✨ One step at a time
 
 ### What I’m up to
-🧑‍🎓 Attending classes & building projects
+🧑‍🎓 Attending classes Or Reading
 <br>
-🐙 Learning in public and sharing my progress along the way
+🐙 Learning 
