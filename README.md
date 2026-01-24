@@ -1,6 +1,6 @@
 ### Hi, I'm Lenganji!
 
-🎓 Computer Science Student | Learning Front-End Development
+🎓 Computer Science Student
 <br>
 💻 Learning JavaScript, React & Node.js
 <br>
@@ -9,11 +9,11 @@
 ### About me
 🐶 Dog Lover & 📷 Passionate about Photography
 <br>
-🌍 Curious by nature, always exploring and learning
+🌍 Curious, always exploring and learning
 <br>
 ✨ One step at a time
 
 ### What I’m up to
-🧑‍🎓 Attending classes Or Reading
+🧑‍🎓 Attending Classes Or Reading
 <br>
-🐙 Learning 
+🐙 Solving life's problems...
