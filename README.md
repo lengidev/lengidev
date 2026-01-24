@@ -14,6 +14,6 @@
 ✨ One step at a time
 
 ### What I’m up to
-🧑‍🎓 Attending Classes Or Reading
+🧑‍🎓 Attending classes or reading
 <br>
 🐙 Solving life's problems...
