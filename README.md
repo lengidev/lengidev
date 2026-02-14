@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C082F7&width=435&lines=Hey%2C+I'm+Lenganji+Sinyangwe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=AAE5DFCB&width=435&lines=Hey%2C+I'm+Lenganji+Sinyangwe)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 I’m a Computer Science student learning to build practical software step by step.<br><br>Currently working through the full process from planning and design to writing code and solving real-world problems. Most of my projects are built from the ground up as a way to understand how things really work.<br><br>My work here reflects how I think and build. You’ll find my projects and experiments below.
