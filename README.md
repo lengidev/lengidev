@@ -1,4 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=AAE5DFCB&width=435&lines=Hey%2C+I'm+Lenganji+Sinyangwe)](https://git.io/typing-svg)
+<div align="center">
+  <h1>
+    <strong>Hey</strong>
+    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30" alt="wave"> 
+    <strong>I'm Lenganji Sinyangwe</strong>
+  </h1>
+  <p>
+    📖 Student | ⚛️ JavaScript Developer | 🧩 Problem Solver | 🚀 Engineer
+  </p>
+  <p>
+     <em>
+<a href="https://github.com/lengidev">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software+from+the+ground+up;Turning+ideas+into+working+code;Consistency+over+speed" alt="Typing SVG"/></a>
+     </em> 
+  </p>
+</div> 
 
 ## 🙋🏽‍♂️ About Me:
 I’m a Computer Science student learning to build practical software step by step.<br><br>Currently working through the full process from planning and design to writing code and solving real-world problems. Most of my projects are built from the ground up as a way to understand how things really work.<br><br>My work here reflects how I think and build. You’ll find my projects and experiments below.
