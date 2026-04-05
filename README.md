@@ -5,12 +5,13 @@
     <strong>I'm Lenganji Sinyangwe</strong>
   </h1>
   <p>
-    📖 Student | ⚛️ JavaScript Developer | 🧩 Problem Solver | 🚀 Engineer
+    📖 Student | 🎨 Designer | 🚀 Engineer
   </p>
   <p>
      <em>
 <a href="https://github.com/lengidev">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software+from+the+ground+up;Turning+ideas+into+working+code;Consistency+over+speed" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=14&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code;Logic;Design;Visuals" alt="Typing SVG" /></a>
      </em> 
   </p>
 </div> 
